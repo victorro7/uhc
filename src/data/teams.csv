@@ -1,0 +1,3 @@
+team_id,team_name,member_name,github_username,email,repository_url,devpost_url
+team_001,useRaven Team,Victor Rodriguez,victorro7,victor@example.com,https://github.com/victorro7/useRaven,
+team_002,SimilaritySeek Team,Bray Nguyen,braynguyen,bray@example.com,https://github.com/braynguyen/SimilaritySeek, 

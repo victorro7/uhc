@@ -1,0 +1,6 @@
+requests
+python-dateutil
+dataclasses-json
+pydantic
+python-dotenv
+rich
